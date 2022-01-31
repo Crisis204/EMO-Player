@@ -1,2 +1,5 @@
-# EMO-Player
-help to recommend Media files to user by detecting its mood
+# emotion-based-music-ai
+
+just clone this repo or download
+
+and run app.py 
